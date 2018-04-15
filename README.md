@@ -17,7 +17,8 @@ In such a classification problem, one passes through certain standard    steps:
     • You also need to provide some metric to assess the performance of your classifier on unseen data 
     (The generalization problem)
 
-2    **The Project Requirements**
+2  **The Project Requirements**
+
         • Obtain the EMG annotated data from your dropbox in .mat format. In order to read .mat format in 
         python, check scipy.io.loadmat
         • Filtrate the acquired EMG signals to eliminate the AC noise [60 Hz] using a notch filter.
