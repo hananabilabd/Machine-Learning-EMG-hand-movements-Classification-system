@@ -1,20 +1,21 @@
 # Machine-Learning-EMG-hand-movements-Classifi-cation-system
 
-1   Main Project Idea
-It is required to build an EMG-based hand movements Classification system. The classifier is a 
+1   **Main Project Idea**
+
+This an EMG-based hand movements Classification system. The classifier is a 
 binary classifier; meaning that we have  only 2 classes to decide between:  The required system 
 needs to state  whether the patient is doing lateral or palmar motion based on some features in 
 his/her EMG.
 In such a classification problem, one passes through certain standard    steps:
 
-• EMG data collection and labeling for training (Generate your ground truth).
-• Extracting some features from the EMG signal to encode the information contained in the signal in 
-a finite set of variables.
-• Choose a classifier model to train it with the data you obtained.
-• After training your classifier, you can use it to give you a decision on a new patient EMG 
-whether the movement is lateral or palmar!.
-• You also need to provide some metric to assess the performance of your classifier on unseen data 
-(The generalization problem)
+    • EMG data collection and labeling for training (Generate your ground truth).
+    • Extracting some features from the EMG signal to encode the information contained in the signal in 
+    a finite set of variables.
+    • Choose a classifier model to train it with the data you obtained.
+    • After training your classifier, you can use it to give you a decision on a new patient EMG 
+    whether the movement is lateral or palmar!.
+    • You also need to provide some metric to assess the performance of your classifier on unseen data 
+    (The generalization problem)
 
 2    The Project Requirements
 • Obtain the EMG annotated data from your dropbox in .mat format. In order to read .mat format in 
