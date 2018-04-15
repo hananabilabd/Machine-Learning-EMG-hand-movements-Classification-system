@@ -36,3 +36,4 @@ In such a classification problem, one passes through certain standard    steps:
 
 Note:  I Did not  use the built in functions of Naive Bayes classifier in Python, but constructed my own 
   model.
+  ![alt text](https://github.com/hananabilabd/Machine-Learning-EMG-hand-movements-Classification-system/blob/master/Palmar_Lateral.PNG)
